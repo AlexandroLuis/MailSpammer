@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 from time import sleep
 import pyautogui
 
-driver = webdriver.Chrome(executable_path="C:/Users/alexa/Desktop/Server/chromedriver")
+driver = webdriver.Chrome(executable_path="C:/location/chromedriver")
 
 Accounts = ['', '', '']
 Passes = ['', '', '']
