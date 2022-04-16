@@ -7,7 +7,7 @@ driver = webdriver.Chrome(executable_path="C:/location/chromedriver")
 
 Accounts = ['', '', '']
 Passes = ['', '', '']
-Target = 'Target'
+Target = 'Target to Mail Spam'
 Subject = 'Subject'
 Message = 'Message'
 
